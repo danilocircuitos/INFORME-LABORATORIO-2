@@ -59,6 +59,8 @@ Tabla 3.4 Resultados obtenidos para el circuito de la figura 2.1.
 
 4.VIDEO
 
+https://youtu.be/HbUxK0uwBiE
+
 5.CONCLUSIONES
 
 •En esta práctica de laboratorio se calculó el valor de la corriente del circuito mediante LVK. A la hora de realizar los respectivos cálculos en la práctica de laboratorio se evidencio que con el análisis de mallas se puede ir calculando el circuito en varias partes y lograr resolverlo de una manera más fácil.
